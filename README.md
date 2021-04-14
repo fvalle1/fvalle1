@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![fvalle1'stats](https://github-readme-stats.vercel.app/api?username=fvalle1&theme=dark&show_icons=true&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvalle1&langs_count=50&theme=dark&hide=jupyter%20notebook,html,css,tex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvalle1&langs_count=50&theme=dark&hide=jupyter%20notebook,html,css,tex,objective-c%2B%2B&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
