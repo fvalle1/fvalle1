@@ -1,5 +1,6 @@
-### Hi there 👋
+# fvalle1 🧑🏼‍💻
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/fvalle1/my-stack)
 ![fvalle1'stats](https://github-readme-stats.vercel.app/api?username=fvalle1&theme=dark&show_icons=true&count_private=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvalle1&langs_count=50&theme=dark&hide=jupyter%20notebook,Mathematica,html,css,tex,objective-c%2B%2B&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
