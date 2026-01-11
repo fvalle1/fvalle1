@@ -1,8 +1,4 @@
 # fvalle1 🧑🏼‍💻
-
-![fvalle1'stats](https://github-readme-stats.vercel.app/api?username=fvalle1&theme=dark&show_icons=true&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvalle1&langs_count=20&theme=dark&hide=jupyter%20notebook,Mathematica,html,css,tex,objective-c%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Lego stat](https://raw.githubusercontent.com/fvalle1/fvalle1/refs/heads/main/profile-3d-contrib/profile-gitblock.svg)
 
 <!--
